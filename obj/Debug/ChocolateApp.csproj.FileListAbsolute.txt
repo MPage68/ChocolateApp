@@ -1,0 +1,7 @@
+C:\Users\mikep\source\repos\ChocolateApp\ChocolateApp\bin\Debug\ChocolateApp.exe.config
+C:\Users\mikep\source\repos\ChocolateApp\ChocolateApp\bin\Debug\ChocolateApp.exe
+C:\Users\mikep\source\repos\ChocolateApp\ChocolateApp\bin\Debug\ChocolateApp.pdb
+C:\Users\mikep\source\repos\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.csprojAssemblyReference.cache
+C:\Users\mikep\source\repos\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.csproj.CoreCompileInputs.cache
+C:\Users\mikep\source\repos\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.exe
+C:\Users\mikep\source\repos\ChocolateApp\ChocolateApp\obj\Debug\ChocolateApp.pdb
